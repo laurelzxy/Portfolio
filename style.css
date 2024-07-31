@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Italiana';
+    src: url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+
+    font-family: 'Andika';
+    src: url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Italiana&display=swap');
+}
+
+:root{
+    --verde-musgo: #B5BF9F;
+    --cinza: #404040;
+    --bege: #F2EEEB;
+    --verde: #778C58;
+
+}
+
+.banner {
+    height: 100vh;
+    background-color: var(--bege);
+
+}
+
+.banner img {
+    position: absolute;
+    
+}
